@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the diagnostic accuracy of AI in medical imaging?",
+        "expected_sources": ["sample.txt"]
+    },
+    {
+        "question": "How long does traditional drug discovery take?",
+        "expected_sources": ["sample.txt"]
+    },
+    {
+        "question": "What is the rate limit for the free tier of the Weather API?",
+        "expected_sources": ["sample.md"]
+    },
+    {
+        "question": "What parameters does the forecast endpoint accept?",
+        "expected_sources": ["sample.md"]
+    },
+    {
+        "question": "What privacy techniques are used for AI in healthcare?",
+        "expected_sources": ["sample.txt"]
+    }
+]
