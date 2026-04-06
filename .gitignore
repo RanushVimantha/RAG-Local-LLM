@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data directories (user-specific, not committed)
+data/chromadb/
+data/uploads/
+data/db/
+
+# HuggingFace model cache
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Claude-related files
+.claude/
+.claude_*
+CLAUDE.md
+.claudeignore
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
+
+# Distribution
+*.tar.gz
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PID (planning document, not part of source)
+RAG_Local_LLM_PID.md
