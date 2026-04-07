@@ -3,7 +3,7 @@
 from dataclasses import dataclass
 
 import structlog
-from langchain.text_splitter import (
+from langchain_text_splitters import (
     CharacterTextSplitter,
     RecursiveCharacterTextSplitter,
 )
